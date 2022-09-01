@@ -1,0 +1,15 @@
+﻿<Window x:Class="Ghani_Projet_802.Url"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ghani_Projet_802"
+        mc:Ignorable="d"
+        Title="Veuillez choisir l'URL du site à lancer" Height="150" Width="520" WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="26,14,0,0" TextWrapping="Wrap" Text="URL du site : " VerticalAlignment="Top" Width="89"/>
+        <TextBox x:Name="txtURL" HorizontalAlignment="Left" Margin="96,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="375"/>
+        <Button Content="Aller à" HorizontalAlignment="Left" Margin="95,39,0,0" VerticalAlignment="Top" RenderTransformOrigin="-5.426,-1" Width="175" Click="copierURL"/>
+        <Button Content="Annuler" HorizontalAlignment="Left" Margin="300,39,0,0" VerticalAlignment="Top" Width="170" Click="fermer"/>
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Ghani_Projet_802.ListeClients"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ghani_Projet_802"
+        mc:Ignorable="d"
+        Title="ListeClients" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <ListView x:Name="ListViewClients" Margin="10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Compagnie" Width="100" DisplayMemberBinding="{Binding NomCompagnie}"/>
+                    <GridViewColumn Header="Contact" Width="100" DisplayMemberBinding="{Binding NomContact}"/>
+                    <GridViewColumn Header="Adresse" Width="120" DisplayMemberBinding="{Binding Adresse}"/>
+                    <GridViewColumn Header="Province" Width="100" DisplayMemberBinding="{Binding Province}"/>
+                    <GridViewColumn Header="Code postal" Width="100" DisplayMemberBinding="{Binding CodePostal}"/>
+                    <GridViewColumn Header="Pays" Width="100" DisplayMemberBinding="{Binding Pays}"/>
+                    <GridViewColumn Header="Téléphone" Width="100" DisplayMemberBinding="{Binding Telephone}"/>
+                    <GridViewColumn Header="Faxe" Width="100" DisplayMemberBinding="{Binding Fax}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

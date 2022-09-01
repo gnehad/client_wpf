@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghani_Projet_802", "Ghani_Projet_802.csproj", "{02510551-8211-4CFF-B137-E300F8A56EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghani_Projet_ASP.NET_802", "..\Ghani_Projet_ASP.NET_802\Ghani_Projet_ASP.NET_802.csproj", "{96DC73B6-4CAE-4546-ABB2-17CE00A55F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02510551-8211-4CFF-B137-E300F8A56EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02510551-8211-4CFF-B137-E300F8A56EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02510551-8211-4CFF-B137-E300F8A56EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02510551-8211-4CFF-B137-E300F8A56EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DC73B6-4CAE-4546-ABB2-17CE00A55F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DC73B6-4CAE-4546-ABB2-17CE00A55F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DC73B6-4CAE-4546-ABB2-17CE00A55F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DC73B6-4CAE-4546-ABB2-17CE00A55F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B7AAAD-BBA2-4959-83F6-BBD1228C7509}
+	EndGlobalSection
+EndGlobal

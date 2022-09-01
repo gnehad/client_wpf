@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Ghani_Projet_ASPNET_802Context"
+    }
+  }
+}

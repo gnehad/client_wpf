@@ -1,0 +1,49 @@
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\bin\Debug\Ghani_Projet_802.exe.config
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\bin\Debug\Ghani_Projet_802.exe
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\bin\Debug\Ghani_Projet_802.pdb
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\bin\Debug\EntityFramework.dll
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\bin\Debug\EntityFramework.xml
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\bin\Debug\fr\EntityFramework.resources.dll
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.AssemblyReference.cache
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.SuggestedBindingRedirects.cache
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\ListeClients.g.cs
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\MainWindow.g.cs
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\App.g.cs
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802_Content.g.cs
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802_MarkupCompile.cache
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802_MarkupCompile.lref
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\MainWindow.baml
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\ListeClients.baml
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.g.resources
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.Properties.Resources.resources
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.GenerateResource.cache
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.CoreCompileInputs.cache
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.CopyComplete
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.exe
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.pdb
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Url.g.cs
+C:\Cours AEC\Cours interfaces utilisateur\projet\Ghani_Projet_802\obj\Debug\Url.baml
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\bin\Debug\Ghani_Projet_802.exe.config
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\bin\Debug\Ghani_Projet_802.exe
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\bin\Debug\Ghani_Projet_802.pdb
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\bin\Debug\EntityFramework.dll
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\bin\Debug\EntityFramework.xml
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\bin\Debug\fr\EntityFramework.resources.dll
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.AssemblyReference.cache
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\ListeClients.g.cs
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\MainWindow.g.cs
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Url.g.cs
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\App.g.cs
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802_Content.g.cs
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802_MarkupCompile.cache
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802_MarkupCompile.lref
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\ListeClients.baml
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\MainWindow.baml
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Url.baml
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.g.resources
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.Properties.Resources.resources
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.GenerateResource.cache
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.CoreCompileInputs.cache
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.csproj.CopyComplete
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.exe
+C:\Cours AEC\Session 5\Projets persos\Projets formation\GestionClients_WPF_EF\Ghani_Projet_802\obj\Debug\Ghani_Projet_802.pdb
